@@ -1,0 +1,11 @@
+# Todo
+- [x] Design router
+- [x] Make navigate
+- [x] Make Footer
+- [x] Trang chủ
+- [x] Login
+- [x] Sign up
+- [x] Thông tin người dùng
+- [x] Tạo bài viết
+- [x] Duyệt bài viết (chỉ admin được thấy)
+- [ ] Trang tài liệu về giáo lý
